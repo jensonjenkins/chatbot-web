@@ -7,7 +7,7 @@ A full-stack web app to interact with the <a href="https://github.com/jensonjenk
 - Model: TensorFlow, Keras
   
 ## Demo
-<img src="client/public/demo-img.jpg" />
+<img src="client/public/demo_img.jpg" />
 
 ## Installation (To run on a local machine)
 1. Clone the repository: 
