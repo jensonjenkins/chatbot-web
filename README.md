@@ -1,7 +1,8 @@
 # chatbot-web
 A full-stack web app to interact with the <a href="https://github.com/jensonjenkins/transformer-chatbot">transformer-chatbot</a> model.
 ## Demo
-<img src="https://github.com/jensonjenkins/chatbot-web/assets/117452546/92f2ce59-4574-4293-a4ca-0c2c87a0f90a"/>
+<img src="https://github.com/jensonjenkins/chatbot-web/assets/117452546/24cbda96-f941-4444-b594-98b44f0a17f6" />
+
 
 ## Technology
 - Frontend: Typescript, React
