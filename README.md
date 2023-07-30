@@ -7,7 +7,7 @@ A full-stack web app to interact with the <a href="https://github.com/jensonjenk
 - Model: TensorFlow, Keras
   
 ## Demo
-<img src="https://github.com/jensonjenkins/chatbot-web/assets/117452546/24cbda96-f941-4444-b594-98b44f0a17f6" />
+<img src="client/public/demo-img.jpg" />
 
 ## Installation (To run on a local machine)
 1. Clone the repository: 
