@@ -1,4 +1,4 @@
-# chatbot
+# chatbot-web
 A full-stack webapp to interact with the transformer-chatbot model.
 
 ## Technology
@@ -9,7 +9,7 @@ A full-stack webapp to interact with the transformer-chatbot model.
 ## Installation (To run on a local machine)
 1. Clone the repository: 
 ```bash
-git clone https://github.com/jensonjenkins/chatbot-webapp
+git clone https://github.com/jensonjenkins/chatbot-web
 ```
 2. Navigate to the server directory and create the docker image:
 ```bash
